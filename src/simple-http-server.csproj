@@ -7,7 +7,7 @@
     <ProjectGuid>{9ACF76C9-BBBD-4A65-85B6-4A7702334B0A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>simple_http_server</RootNamespace>
+    <RootNamespace>SimpleHttpServer</RootNamespace>
     <AssemblyName>simple-http-server</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -35,7 +35,7 @@
     <ApplicationIcon>exira.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>simple_http_server.Program</StartupObject>
+    <StartupObject>SimpleHttpServer.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Owin">

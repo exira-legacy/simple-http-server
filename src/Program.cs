@@ -1,4 +1,4 @@
-﻿namespace simple_http_server
+﻿namespace SimpleHttpServer
 {
     using System;
     using System.Globalization;
