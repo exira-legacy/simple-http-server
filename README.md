@@ -1,5 +1,4 @@
-simple-http-server
-==================
+# simple-http-server [![Travis build status](https://travis-ci.org/exira/simple-http-server.png)](https://travis-ci.org/exira/simple-http-server)
 
 When doing webdevelopment, sometimes you need to serve files from an HTTP host instead of using the filesystem.
 
