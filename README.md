@@ -13,7 +13,7 @@ It is based on OWIN. If you can use it, enjoy!
 
 ## Copyright
 
-Copyright © 2014 Cumps Consulting / Exira and contributors.
+Copyright © 2014-2015 Cumps Consulting / Exira and contributors.
 
 ## License
 
