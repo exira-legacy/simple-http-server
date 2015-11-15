@@ -1,0 +1,28 @@
+type project
+id
+    Exira.SimpleHttpServer
+owners
+    exira
+authors
+    exira
+projectUrl
+    http://git.exira.com/simple-http-serverr/
+iconUrl
+    https://raw.githubusercontent.com/exira/simple-http-server/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/exira/simple-http-server/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    owin http server f#
+summary
+    Exira.SimpleHttpServer is a simple HTTP server to serve static files
+description
+    Exira.SimpleHttpServer is a simple HTTP server to serve static files
+files
+    bin/Release/*.exe ==> tools
+    bin/Release/*.dll ==> tools
+    bin/Release/*.config ==> tools
+    bin/Release/*.html ==> tools

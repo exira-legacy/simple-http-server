@@ -39,7 +39,7 @@ let description = "Exira.SimpleHttpServer is a simple HTTP server to serve stati
 let authors = [ "exira" ]
 
 // Tags for your project (for NuGet package)
-let tags = "owin f#"
+let tags = "owin http server f#"
 
 // File system information
 let solutionFile  = "simple-http-server.sln"
