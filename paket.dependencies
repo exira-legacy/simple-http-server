@@ -1,0 +1,17 @@
+redirects: on
+source https://nuget.org/api/v2
+
+nuget FSharp.Core
+nuget FSharp.Formatting
+nuget NUnit
+nuget NUnit.Runners
+nuget FAKE
+nuget SourceLink.Fake
+
+nuget Microsoft.Owin
+nuget Microsoft.Owin.FileSystems
+nuget Microsoft.Owin.Host.HttpListener
+nuget Microsoft.Owin.Hosting
+nuget Microsoft.Owin.StaticFiles
+
+github fsharp/FAKE modules/Octokit/Octokit.fsx
