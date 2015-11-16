@@ -8,6 +8,8 @@ It is based on OWIN. If you can use it, enjoy!
 
 ## Usage
 
+Download the latest release from [the GitHub releases page](https://github.com/exira/simple-http-server/releases)
+
 `simple-http-server --port <port to listen on> --path <root path to serve>`
 
 ## Cloning
