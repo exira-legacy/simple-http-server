@@ -7,19 +7,21 @@
 simple-http-server [![NuGet Status](http://img.shields.io/nuget/v/Exira.SimpleHttpServer.svg?style=flat)](https://www.nuget.org/packages/Exira.SimpleHttpServer/)
 ======================
 
-<div class="row">
-  <div class="span1"></div>
-  <div class="span6">
-    <div class="well well-small" id="nuget">
-      The simple-http-server library can be <a href="https://nuget.org/packages/Exira.SimpleHttpServer">installed from NuGet</a>:
-      <pre>PM> Install-Package Exira.SimpleHttpServer</pre>
-    </div>
-  </div>
-  <div class="span1"></div>
-</div>
+When doing webdevelopment, sometimes you need to serve files from an HTTP host instead of using the filesystem.
 
-Contributing and copyright
---------------------------
+Since setting up a webserver is too much overhead, we quickly wrote something to serve static files on a given port.
+
+It is based on OWIN. If you can use it, enjoy!
+
+### Usage
+
+`simple-http-server --port <port to listen on> --path <root path to serve>`
+
+### Cloning
+
+`git clone git@github.com:exira/simple-http-server.git -c core.autocrlf=input`
+
+### Contributing and copyright
 
 The project is hosted on [GitHub][gh] where you can [report issues][issues], fork
 the project and submit pull requests. You might also want to read the

@@ -8,6 +8,8 @@ nuget NUnit.Runners
 nuget FAKE
 nuget SourceLink.Fake
 
+nuget Argu
+nuget Exira.ErrorHandling
 nuget Microsoft.Owin.Host.HttpListener
 nuget Microsoft.Owin.Hosting
 nuget Microsoft.Owin.StaticFiles

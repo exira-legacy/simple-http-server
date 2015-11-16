@@ -8,11 +8,11 @@ It is based on OWIN. If you can use it, enjoy!
 
 ## Usage
 
-```simple-http-server <port to listen on> <root path to serve>```
+`simple-http-server --port <port to listen on> --path <root path to serve>`
 
 ## Cloning
 
-```git clone git@github.com:exira/simple-http-server.git -c core.autocrlf=input```
+`git clone git@github.com:exira/simple-http-server.git -c core.autocrlf=input`
 
 ## Copyright
 
