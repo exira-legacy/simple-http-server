@@ -4,10 +4,10 @@ open System.Reflection
 [<assembly: AssemblyTitleAttribute("simple-http-server")>]
 [<assembly: AssemblyProductAttribute("Exira.SimpleHttpServer")>]
 [<assembly: AssemblyDescriptionAttribute("Exira.SimpleHttpServer is a simple HTTP server to serve static files")>]
-[<assembly: AssemblyVersionAttribute("1.0.3")>]
-[<assembly: AssemblyFileVersionAttribute("1.0.3")>]
-[<assembly: AssemblyMetadataAttribute("githash","bc40fa7748fe3dfa3dcc743d74d86901a38f8a41")>]
+[<assembly: AssemblyVersionAttribute("1.0.4")>]
+[<assembly: AssemblyFileVersionAttribute("1.0.4")>]
+[<assembly: AssemblyMetadataAttribute("githash","2eec7c686b94fd7dc37d6317bbba8e8a5d605e63")>]
 do ()
 
 module internal AssemblyVersionInformation =
-    let [<Literal>] Version = "1.0.3"
+    let [<Literal>] Version = "1.0.4"
